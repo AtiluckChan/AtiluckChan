@@ -17,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A senior Digital Engineering student passionate in UX/UI design and web development</h3>
 
 - ✨ In the progress of improving web development, user experience, and user interface skill
-- 👨‍💻 All of my projects are available at [Portfolio](https://shorturl.at/JxpIi)
 - 📫 How to reach me atiluck.chan@gmail.com
 - ⚡ Fun fact: Music lover! Hodophile!
 
