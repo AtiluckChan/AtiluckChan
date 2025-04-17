@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 - ✨ In the progress of improving web development, user experience, and user interface skill
 - 📫 How to reach me atiluck.chan@gmail.com
 - ⚡ Fun fact: Music lover! Hodophile!
-- [Visit My Portfolio](https://atiluckchan.github.io/portfolio/)
+- 👀 [Visit My Portfolio](https://atiluckchan.github.io/portfolio/)
 
 <!---
 <h3 align="left">Connect with me:</h3>
